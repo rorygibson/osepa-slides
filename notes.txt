@@ -27,9 +27,9 @@ That was what was in my head, but you should take it anyway that you see fit.
 Contents
 --------
 
-Who am I?
+Introduction
 
-What I'm going to talk about
+Freedom
 
 The Open Source community
 
@@ -49,10 +49,31 @@ Challenges
 
 The future
 
- 
-  
-Who am I?
-=========
+
+Slide index
+===========
+[Slide: Front page; me, Technophobia]
+[Slide: Free Software]
+[Slide: nerds in bedrooms]
+[Slide: vendors I've worked with]
+[Slide: web of collaboration]
+[Slide: collaboration def]
+[Slide: something collaborate-ey]
+[Slide: feedback loop]  
+[Slide: agile methodologies]
+[Slide: Agile Manifesto]
+[Slide: virtuous circle]
+[Slide: Technophobia clients]
+[Slide: LGSS stack]
+[Slide: TSB arch diagram]
+[Slide: SCC arch diagram]
+[Slide: challenges]
+[Slide: The future]
+
+
+
+Introduction
+============
 
 [Slide: Front page; me, Technophobia]
 
@@ -70,9 +91,9 @@ Personally, that means that I spend a lot of time talking to new and existing cl
 I get a lot of opportunities to talk to decision makers in public sector organisations, with an emphasis on the Local Authority space, and as a result I've ot a bit of an appreciation of the difficulties that can present themselves when introducing Open Source.
 
 
-What I'm going to talk about
-============================
-Now, this is a conference about Open Source in the Public Sector, and im sure there will be a number of presentations over the next 2 days that will directly address issues of policy, procurement and so forth.
+Freedom
+=======
+Now, this is a conference about Open Source in the Public Sector, and I'm sure there will be a number of presentations over the next 2 days that will directly address issues of policy, procurement and so forth.
 
 I'm going to talk about something that's perhaps a little more general and abstract.
 
@@ -107,6 +128,7 @@ Many of these vendors - and I can single out a few that I've worked with, like M
 [Slide: web of collaboration]
 
 But at the heart of it all, most Open Source projects are still rooted in code originally written by enthusiasts, working in loosely federated groups, often spread across continents, and collaborating together in ways that would have confounded the traditional software houses of the past.
+
 
 
 Collaboration
