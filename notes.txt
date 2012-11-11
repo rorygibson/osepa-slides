@@ -4,23 +4,24 @@ Public Sector: Open Source presentation
 November 21st, Sheffield Uni
 
 
-Conference abstract: 
-	_Public Sector: Open Source_ is a conference for Public Sector executives, IT specialists and decision makers.
-	How can open source software help to provide major cost savings and meet demands for new services for citizens?
+Conference abstract
+------------------- 
+_Public Sector: Open Source_ is a conference for Public Sector executives, IT specialists and decision makers.
+How can open source software help to provide major cost savings and meet demands for new services for citizens?
 
 
-Conference site: https://osepa.shef.ac.uk/
+Conference URL
+--------------
+https://osepa.shef.ac.uk/
 
 
-Notes from Saul:
-	I was thinking of some stuff about the way that the OSS community is producing a huge number of new tools for software development and those tools are being used to make the software development process more effective (a virtuous cycle).
+Notes from Saul
+---------------
+I was thinking of some stuff about the way that the OSS community is producing a huge number of new tools for software development and those tools are being used to make the software development process more effective (a virtuous cycle).
 
-	So we build on the Stallman era of emacs being OSS start getting CI servers, automated testing tool (ahem!) and even stuff for fast prototyping like Twitter Bootstrap and frameworks like Backbone.js
+So we build on the Stallman era of emacs being OSS start getting CI servers, automated testing tool (ahem!) and even stuff for fast prototyping like Twitter Bootstrap and frameworks like Backbone.js
 
-	That was what was in my head, but you should take it anyway that you see fit.
-
-
-Presentation abstract:
+That was what was in my head, but you should take it anyway that you see fit.
 
 
 Contents
@@ -39,6 +40,15 @@ Regular releases
 Feedback
 
 Overlap with the Agile community
+
+Combining Open Source and agile in the public sector
+
+In practice
+
+Challenges
+
+The future
+
  
   
 Who am I?
@@ -165,7 +175,10 @@ For the Technology Strategy Board, we employed a hybrid lean & agile process to 
 
 For Sheffield City Council, we delivered a content managed web platform based around Magnolia CMS, hosted on Ubuntu; in this case we didn't host the final solution, but worked with Capita IT Services, one of the UK's largest traditional systems integrators, to help them skill up in Magnolia, Ubuntu, Tomcat, Rabbit MQ and the other Open Source technologies we employed.
 
-This project was delivered using the Scrum agile framework, working closely and iteratively with the Council - a traditionally very risk-averse, Big IT-centric and slow-moving institution. We used Open Source software and agile techniques together to rapidly deliver a working system, whilst also educating the Council ab out the benefits of agile - so much so that they're now running ehir own gile projects without external involvement.
+This project was delivered using the Scrum agile framework, working closely and iteratively with the Council - a traditionally very risk-averse, Big IT-centric and slow-moving institution. We used Open Source software and agile techniques together to rapidly deliver a working system, whilst also educating the Council about the benefits of agile - so much so that they're now running ehir own gile projects without external involvement.
+
+During the Sheffield City Council project, and later projects, we've started working with the Government Digital Service, who are breaking new ground in the rapid delivery of low-cost, user-centric services in the central government space.
+Through working with them, we've realised that the ways of working we've promoted within our client base are very much in line with those of GDS - regular releases, agile techniques, and a reliance on Open Source software wherever it makes sense - which is most places!
 
 
 Challenges
@@ -178,3 +191,13 @@ This has often centred around supportability; our answer has been that if we're 
 Sometimes we've been asked if Open Source software is somehow "less secure" - that's an easy one to deal with, as there are numerous peer reviewed studies giving empirical evidence to the contrary.
 
 And sometimes we've been told that the organisation simply has a principle of using Commercial Off The Shelf Software ... we can remedy that by recommending any of the excellent commercial Open Source vendors we work with, from Liferay to MySQL and Magnolia CMS.
+
+
+The future
+==========
+I believe that the collaborative, transparent nature of agile delivery, combined with the benefits of Open Source software, opens up a brighter future for public sector IT projects.
+
+By introducing realistic analysis of the benefits and risks of these approaches, we can work to educate  the Public Sector that it's possible to have solutions that are cheap to build, cheap to run, and deliver to the end users on an ongoing basis, without tying ourselves to vendor lifecycles that could limit our flexibility.
+
+In a world of changing regulatory and political landscapes, using Open Source software, delivered in an agile way, will mean we can serve our customers - even if we don't know now, what we'll need later.
+
