@@ -212,7 +212,7 @@ And sometimes we've been told that the organisation simply has a principle of us
 
 The future
 ==========
-I believe that the collaborative, transparent nature of agile delivery, combined with the benefits of Open Source software, opens up a brighter future for public sector IT projects.
+I believe that the collaborative, transparent nature of agile delivery, combined with the benefits of Open Source software, opens up a brighter future for public sector IT projects. 
 
 By introducing realistic analysis of the benefits and risks of these approaches, we can work to educate  the Public Sector that it's possible to have solutions that are cheap to build, cheap to run, and deliver to the end users on an ongoing basis, without tying ourselves to vendor lifecycles that could limit our flexibility.
 
