@@ -24,6 +24,12 @@ So we build on the Stallman era of emacs being OSS start getting CI servers, aut
 That was what was in my head, but you should take it anyway that you see fit.
 
 
+Title
+-----
+Combining Open Source and agile delivery
+
+
+
 Contents
 --------
 
@@ -52,8 +58,11 @@ The future
 
 Slide index
 ===========
-[Slide: Front page; me, Technophobia]
+[Slide: Front page]
+[Slide: me, Technophobia]
 [Slide: Free Software]
+[Slide: transition Gnu]
+[Slide: transition Open Source]
 [Slide: nerds in bedrooms]
 [Slide: vendors I've worked with]
 [Slide: web of collaboration]
@@ -75,7 +84,7 @@ Slide index
 Introduction
 ============
 
-[Slide: Front page; me, Technophobia]
+[Slide: Front page]
 
 Good afternoon.
 
@@ -86,6 +95,8 @@ I'm a technical architect, a consultant, an Open Source developer, and an agile 
 I work for Technophobia, a Sheffield-based software house. We focus on user experience, web development and the technical delivery of challenging projects. 
 
 We often work in the Public Sector, either directly delivering new and updated systems, or helping our clients develop their digital vision and strategy.
+
+[Slide: me, Technophobia]
 
 Personally, that means that I spend a lot of time talking to new and existing clients about using Open Source software, making bespoke enhancements to Open Source software, and delivering projects, using that software, and usually in an agile way.
 I get a lot of opportunities to talk to decision makers in public sector organisations, with an emphasis on the Local Authority space, and as a result I've ot a bit of an appreciation of the difficulties that can present themselves when introducing Open Source.
@@ -105,7 +116,11 @@ I've been around the Open Source community since before the term "Open Source" w
 
 Introduced by one Richard Stallman, "Free Software" means software that is "free as in speech, not free as in beer", and the emergence of this term, and the burgeoning movement behind it, presented a very significant change to the way that people started to think about software.
 
+[Slide: transition Gnu]
+
 Since "Free Software" appeared on the scene many derivative movements, terms and visions have come and gone, and "Open Source" is, broadly speaking, one of these.
+
+[Slide: transition Open Source]
 
 Even though it's often forgotten today, this direct link to the geeky, idealistic Free Software movement - and the benefits that it delivers - is at the heart of what I want to talk about today.
 
