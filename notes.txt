@@ -53,17 +53,22 @@ The future
   
 Who am I?
 =========
+Good afternoon.
+
 My name is Rory Gibson. 
 
 I'm a technical architect, a consultant, an Open Source developer, and an agile coach.
+
 I work for Technophobia, a Sheffield-based software house. We focus on user experience, web development and the technical delivery of challenging projects. 
 
 We often work in the Public Sector, either directly delivering new and updated systems, or helping our clients develop their digital vision and strategy.
 
+Personally, that means that I spend a lot of time talking to new and existing clients about using Open Source software, making bespoke enhancements to Open Source software, and delivering projects, using that software, and usually in an agile way.
+
 
 What I'm going to talk about
 ============================
-Now, this is a conference about Open Source in the Public Sector, and there will be a number of presentations over the next 2 days that will directly address issues of policy, procurement and so forth.
+Now, this is a conference about Open Source in the Public Sector, and im sure there will be a number of presentations over the next 2 days that will directly address issues of policy, procurement and so forth.
 
 I'm going to talk about something that's perhaps a little more general and abstract.
 
@@ -75,7 +80,7 @@ Introduced by one Richard Stallman, "Free Software" means software that is "free
 
 Since "Free Software" appeared on the scene many derivative movements, terms and visions have come and gone, and "Open Source" is, broadly speaking, one of these.
 
-This direct link to the geeky, libertarian, idealistic Free Software movement - and the benefits that it delivers - is at the heart of what I want to talk about today.
+Even though it's often forgotten today, this direct link to the geeky, idealistic Free Software movement - and the benefits that it delivers - is at the heart of what I want to talk about today.
 
 
 The Open Source community
@@ -84,37 +89,41 @@ The Open Source community
 The Free Software community is stereotypically depicted as being made up of ... well, nerds, coding in their bedrooms.
 
 These days, Open Source encompasses a much wider definition.
-There's a great deal of money to be made by businesses that follow a "commercial Open Source" model, and there are a great number of Open Source products and tools that can help you to deliver value to your customers and citizens.
 
-But at the heart of it all, most of the products and projects that are produced under the banner of Open Source are still rooted in code originally written by enthusiasts, working in loosely federated groups, often spread across continents, and collaborating together in ways that would have confounded the traditional software houses of the past.
+There are a great number of heavyweght Open Source products and tools that can help you to deliver value to your customers and citizens. And there's a great deal of money to be made by businesses that follow a "commercial Open Source" model - making the source code of the software available under one OS license or another, and profiting by the provision of support or additional features.
+
+But at the heart of it all, most Open Source projects are still rooted in code originally written by enthusiasts, working in loosely federated groups, often spread across continents, and collaborating together in ways that would have confounded the traditional software houses of the past.
 
 
 Collaboration
 =============
-"Collaborating" is an important word here. 
+"Collaborating" is the important word here. 
 
 The dictionary definition of "collaboration" is "to work jointly with others or together especially in an intellectual endeavor".
 
 If you look at many enterprises, both public and private sector, there's often an emphasis on supporting collaboration with tooling.
 
-We see a proliferation of software like Microsoft Sharepoint, ostensibly designed to help people share documents and work together, but often so complex and difficult to configure that it ends up getting in the way, rather than supporting the emergence of new and better processes in the workplace.
+We see a proliferation of software like Sharepoint, ostensibly designed to help people share documents and work together, but often so complex and difficult to configure that it ends up getting in the way, rather than supporting the emergence of new and better processes in the workplace.
 
-Contrast this with the typical Open Source project, supported by mailing lists, Internet Relay Chat sessions, ad-hoc wiki pages, forums, and open-access distributed revision control systems like Git.
+Contrast this with the typical Open Source project; supported by mailing lists, Internet Relay Chat sessions, ad-hoc wiki pages, forums, and open-access distributed revision control systems like Git, usually allowing anonymous read access for any interested party.
 
-The use of these, more free-form tools, actively promotes people talking to each other, working more closely together, and pulling together in the same direction.
+The use of these more free-form tools actively promotes people talking to each other, working more closely together, and pulling together in the same direction - creating working software.
 
 
 Regular releases
 ================
-Open Source software development is, by nature, conducted in the open. 
+Simply, Open Source software development is, by nature, conducted in the open. 
 
-In general, the development of the prodct is transparent, and anyone who wants to can gain access to the latest state of the software, simply by cloning it from Github, downloading it from Sourceforge, or checking it out from a public Subversion repository.
+In general, the development of the product is transparent, and anyone who wants to can gain access to the latest state of the software, simply by cloning it from Github, downloading it, or checking it out from a public Subversion repository.
 
-It's a natural result of this openness that, in order to maintain the reputation of the projects, the teams working on them tend to release their software regularly. This frequency of formal release, and the transparency of the systems in use, leads to a very short feedback loop; the team releases a new version (or closes a bug in a public tracker), and real users very quickly obtain the latest version, try it out, and are free to raise new defects, suggest enhancements - or develop them themselves and release them into the wildfor the benefit of all.
+It's a natural result of this openness that, in order to maintain the reputation of the projects, the teams working on them tend to release their software regularly. 
+
+This frequency of formal release, and the transparency of the systems in use, leads to a very short feedback loop; the team releases a new version (or closes a bug in a public tracker), and real users very quickly obtain the latest version, try it out, and are free to raise new defects, suggest enhancements - or develop them themselves and release them into the wild for the benefit of all.
 
 It's the speed of this feedback loop, and the ease with which interested parties can engage with the community, that drives the adoption of many Open Source projects, and contributes to the growth of their communities.
 
-And it's the seed of the feedback loop that delivers real, tangible enefits to the users over time; they can and will receive new functionality very quickly as it's created - no waiting for 12 month vendor release schedules.
+And it's the speed of the feedback loop that delivers real, tangible benefits to the users over time.
+They can and will receive new functionality very quickly as it's created - no waiting for 12 month vendor release schedules.
 
 And here we start to see parallels with another major new force in the software world in the last 20 years; agile software development methodologies.
 
@@ -142,9 +151,11 @@ The techniques that we use to deliver in an agile way are all, really, about col
  * Automating error-prone delivery processes (like integrating and building software)
  * Low-level code and design reviews (through techniques like pair programming)
 
- It's only natural that a community that embraces communication and working together should also embrace software that's built on the same principles.
+It's only natural that a community that embraces communication and working together should also embrace software that's built on the same principles.
 
- The vast majority of software that supports the agile ecosystem - story tracking tools, continuous integration tools, distributed version control systems - is Open Source. The communities overlap significantly.
+The vast majority of software that supports the agile ecosystem - story tracking tools, continuous integration tools, distributed version control systems - is Open Source. The communities overlap significantly.
+
+This overlap, and the joint emphasis on feedback, collaboration and iteration, creates a virtuous circle, where the processes in use enhance the tools, and the tools are used by the kinds of people that understand the processes.
 
 
 Combining Open Source and agile in the public sector
@@ -171,11 +182,17 @@ Our usage of agile - whether vanilla Scrum, or an adapted hybrid process designe
 
 In each of these projects we've used Open Source software; our development toolchain, our integration platforms, our hosting solutions, the content management system we use and the tools we use to collaborate with the clients are all Open Source.
 
-For the Technology Strategy Board, we employed a hybrid lean & agile process to deliver a platform based on social networking technology and the Liferay Portal Server, hosted on an entirely Open Source stack.
+In development, we use a great many tools and libraries, and of those, well over 90% are Open Source, and most of those are Free, at least as in beer.
+
+As an example, for my most recent project, which was delivered in 3 weeks from start to finish, my team developed a case management system for a client in the property industry. Every single piece of software, from the virtualisation software on the hosting platform, through the OS, database, application framework and development tools, was Open Source.
+
+Even during the User Experience phase, we used the Twitter Bootstrap framework to deliver a flexible UI prototype, in preference to using Photoshop or other proprietary software to deliver graphical concepts.
+
+As a larger scale example, for the Technology Strategy Board, we employed a hybrid lean & agile process to deliver a platform based on social networking technology and the Liferay Portal Server, hosted on an entirely Open Source stack. This project has now been running for four years and over 20 releases to production.
 
 For Sheffield City Council, we delivered a content managed web platform based around Magnolia CMS, hosted on Ubuntu; in this case we didn't host the final solution, but worked with Capita IT Services, one of the UK's largest traditional systems integrators, to help them skill up in Magnolia, Ubuntu, Tomcat, Rabbit MQ and the other Open Source technologies we employed.
 
-This project was delivered using the Scrum agile framework, working closely and iteratively with the Council - a traditionally very risk-averse, Big IT-centric and slow-moving institution. We used Open Source software and agile techniques together to rapidly deliver a working system, whilst also educating the Council about the benefits of agile - so much so that they're now running ehir own gile projects without external involvement.
+This project was delivered using the Scrum agile framework, working closely and iteratively with the Council - a traditionally very risk-averse, Big IT-centric and slow-moving institution. We used Open Source software and agile techniques together to rapidly deliver a working system, whilst also educating the Council about the benefits of agile - so much so that they're now running their own gile projects without external involvement.
 
 During the Sheffield City Council project, and later projects, we've started working with the Government Digital Service, who are breaking new ground in the rapid delivery of low-cost, user-centric services in the central government space.
 Through working with them, we've realised that the ways of working we've promoted within our client base are very much in line with those of GDS - regular releases, agile techniques, and a reliance on Open Source software wherever it makes sense - which is most places!
