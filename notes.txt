@@ -177,6 +177,15 @@ This frequency of formal release, and the transparency of the systems in use, le
 
 [Slide: feedback loop]
 
+Cyclica processes are often said to follow the "PDCA" system, first laid out by W. Edwards Deming.
+
+In essence, you 
+ * Plan a piece of work
+ * Do the work
+ * Check whether the results are what you expected
+ * Act on the results
+ * ... and repeat
+
 It's the speed of this feedback loop, and the ease with which interested parties can engage with the community, that drives the adoption of many Open Source projects, and contributes to the growth of their communities.
 
 And it's the speed of the feedback loop that delivers real, tangible benefits to the users over time.

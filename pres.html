@@ -18,6 +18,9 @@
 	
 	<!-- Required Modernizr file -->
 	<script src="modernizr.custom.js"></script>
+
+
+	<link rel="stylesheet" href="extensions/menu/deck.menu.css">
 </head>
 <body class="deck-container">
 
@@ -59,11 +62,11 @@
 <section class="slide">
 	<h2>Real open source contributors</h2>
 
-	<div style="padding: 10%; height: 50%; margin:20%; margin-top: 0; background-color: white">
-		<img class="slide" src="magnolia.jpg" style="width:40%; height: 143px; float:left"/>
-		<img class="slide" src="mysql.jpg" style="width:40%"/>
-		<img class="slide" src="liferay.jpeg" style="width:40%; float:left"/>
-		<img class="slide" src="microsoft.jpg" style="width:40%"/>
+	<div style="padding: 10%; height: 50%; margin:20%; margin-top: 0;">
+		<img class="slide" src="magnolia.png" style="width:40%; height: 143px; float:left"/>
+		<img class="slide" src="mysql.png" style="width:40%"/>
+		<img class="slide" src="liferay.png" style="width:40%; float:left"/>
+		<img class="slide" src="microsoft.png" style="width:40%"/>
 	</div>
 </section>	
 
@@ -92,13 +95,26 @@
 <!-- [Slide: feedback loop] -->
 <section class="slide">
 	<h2>Feedback</h2>
-	<p> todo </p>
+	<p>W. Edwards Deming</p>
+	<ul style="float:left">
+		<li class="slide">Plan</li>
+		<li class="slide">Do</li>
+		<li class="slide">Check</li>
+		<li class="slide">Act</li>
+	</ul>
+	<img src="deming_cycle.png" />
 </section>	
 
 <!-- [Slide: agile methodologies] -->
 <section class="slide">
 	<h2>Agile methodologies</h2>
-	<img src="Agile.gif" />
+	
+	<div style="padding: 10%; height: 70%; margin:10%; margin-top: 0;">
+		<img class="slide" src="scrum-logo.png" style="width:40%; float:left"/>
+		<img class="slide" src="xp-logo.png" style="width:40%"/>
+		<img class="slide" src="dsdm-logo.png" style="width:40%; float:left"/>
+		<img class="slide" src="kanban-logo.png" style="width:40%"/>
+	</div>
 </section>	
 
 <!-- [Slide: Agile Manifesto] -->
@@ -139,10 +155,10 @@
 	<p> todo </p>
 </section>	
 
-<!-- [Slide: LGSS stack] -->
+<!-- [Slide: Recent project stack] -->
 <section class="slide">
 	<h2>A recent project</h2>
-	<p> todo </p>
+	<img src="recent-stack.png" width="80%" />
 </section>	
 
 <!-- [Slide: TSB arch diagram] -->
@@ -178,18 +194,21 @@
 <script src="core/deck.core.js"></script>
 
 <!-- Extension JS files. Add or remove as needed. -->
-<script src="../core/deck.core.js"></script>
-<script src="../extensions/hash/deck.hash.js"></script>
-<script src="../extensions/menu/deck.menu.js"></script>
-<script src="../extensions/goto/deck.goto.js"></script>
-<script src="../extensions/status/deck.status.js"></script>
-<script src="../extensions/navigation/deck.navigation.js"></script>
-<script src="../extensions/scale/deck.scale.js"></script>
+<script src="extensions/menu/deck.menu.js"></script>
 
 <!-- Initialize the deck. You can put this in an external file if desired. -->
 <script>
 	$(function() {
 		$.deck('.slide');
+		$.extend(true, $.deck.defaults, {
+		   classes: {
+		      menu: 'deck-menu'
+		   },
+
+		   keys: {
+		      menu: 77 // 'm'
+		   }
+		});
 	});
 </script>
 </body>
