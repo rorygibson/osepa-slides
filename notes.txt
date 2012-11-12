@@ -61,6 +61,7 @@ Slide index
 [Slide: Front page]
 [Slide: me, Technophobia]
 [Slide: Free Software]
+[Slide: Transition RMS]
 [Slide: transition Gnu]
 [Slide: transition Open Source]
 [Slide: nerds in bedrooms]
@@ -114,7 +115,7 @@ I've been around the Open Source community since before the term "Open Source" w
 
 "Free Software", capitalised exactly so, is a term with a very specific meaning. 
 
-Introduced by one Richard Stallman, "Free Software" means software that is "free as in speech, not free as in beer", and the emergence of this term, and the burgeoning movement behind it, presented a very significant change to the way that people started to think about software.
+Introduced by one Richard Stallman, [Slide: Transition RMS] "Free Software" means software that is "free as in speech, not free as in beer", and the emergence of this term, and the burgeoning movement behind it, presented a very significant change to the way that people started to think about software.
 
 [Slide: transition Gnu]
 
