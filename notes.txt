@@ -129,9 +129,9 @@ Even though it's often forgotten today, this direct link to the geeky, idealisti
 The Open Source community
 =========================
 
-[Slide: nerds in bedrooms]
-
 The Free Software community is stereotypically depicted as being made up of ... well, nerds, coding in their bedrooms.
+
+[Slide: nerds in bedrooms]
 
 These days, Open Source encompasses a much wider definition.
 
