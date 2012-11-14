@@ -297,9 +297,9 @@ The future
 
 Projects like the ones we've conducted with local authorities and the ongoing work of the Government Digital Service are pointing the way; to where decisions are taken on the basis of empirical evidence, and where lightweight procurement processes, combined with robust knowledge of the realities of IT implementation - rather than the rosy picture painted by traditional vendors - are used to engage suppliers who can really deliver.
 
-I believe that the collaborative, transparent nature of agile delivery, combined with the benefits of Open Source software, opens up a brighter future for public sector IT projects. 
+I believe that the collaborative, transparent nature of agile delivery, combined with the benefits of Open Source software, opens up a brighter future for public sector IT projects, where iterative enhancements can be layered on top of each other to imporve user experiences and realise efficiencies.
 
-By introducing realistic analysis of the benefits and risks of these approaches, we can work to educate  the Public Sector that it's possible to have solutions that are cheap to build, cheap to run, and deliver to the end users on an ongoing basis, without tying ourselves to vendor lifecycles that could limit our flexibility.
+By introducing realistic analysis of the benefits and risks of these approaches, we can work to educate the Public Sector that it's possible to have solutions that are cheap to build, cheap to run, and deliver to the end users on an ongoing basis, without tying ourselves to vendor lifecycles that could limit our flexibility.
 
 In a world of changing regulatory and political landscapes, using Open Source software, delivered in an agile way, will mean we can serve our customers - even if we don't know now, what we'll need later.
 
