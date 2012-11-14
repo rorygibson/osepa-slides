@@ -251,8 +251,6 @@ In practice
 
 We at Technophobia have had great success in the Public Sector with introducing solutions based on these two pillars; Open Source and agile methodologies.
 
-[Slide: Technophobia clients]
-
 Our usage of agile - whether vanilla Scrum, or an adapted hybrid process designed to play nicely inside the Prince2 framework - has enabled us to work closely with clients including the Driving Standards Agency, the Technology Strategy Board, the Criminal Records Bureau and Sheffield City Council. 
 
 In each of these projects we've used Open Source software; our development toolchain, our integration platforms, our hosting solutions, the content management system we use and the tools we use to collaborate with the clients are all Open Source.
