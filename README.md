@@ -1,5 +1,5 @@
-Public Sector: Open Source presentation - Intersection: Combining Open Source and agile delivery
-================================================================================================
+Intersection: Combining Open Source and agile delivery
+======================================================
 
 _Slides for my presentation at the Public Sector Open Source Conference, November 21st, Sheffield Uni_
 
