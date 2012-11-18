@@ -31,14 +31,17 @@ My name is Rory Gibson.
 
 I'm a technical architect, a consultant, an Open Source developer, and an agile coach.
 
-I work for Technophobia, a Sheffield-based software house. We focus on user experience, web development and the technical delivery of challenging projects. 
+I work for Technophobia, a Sheffield-based software house. We focus on user experience, web development and the delivery of challenging projects. We do everything from brochure-ware websites to systems integration work for the NHS, social networking to agile consultancy.
 
 We often work in the Public Sector, either directly delivering new and updated systems, or helping our clients develop their digital vision and strategy.
 
 [Slide: Technophobia]
 
-Personally, that means that I spend a lot of time talking to new and existing clients about using Open Source software, making bespoke enhancements to Open Source software, and delivering projects, using that software, and usually in an agile way.
-I get a lot of opportunities to talk to decision makers in public sector organisations, with an emphasis on the Local Authority space, and as a result I've got a bit of an appreciation of the difficulties that can present themselves when introducing Open Source.
+Personally, that means that I spend a lot of time talking to new and existing clients about using Open Source software, making bespoke changes to Open Source software, and delivering projects, using that software, and usually in an agile way.
+
+I get a lot of opportunities to talk to decision makers in public sector organisations, often in the Local Authority space.
+
+As a result I've got an appreciation of the difficulties that can present themselves when introducing Open Source, and a lot of experience of working through those problems and making it work.
 
 
 Freedom
