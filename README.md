@@ -29,7 +29,7 @@ Good afternoon.
 
 My name is Rory Gibson. 
 
-I'm a technical architect, a consultant, an Open Source developer, and an agile coach.
+I'm a technical architect, a consultant, an Open Source developer, an agile coach, and very occasionally a conference speaker.
 
 I work for Technophobia, a Sheffield-based software house. We focus on user experience, web development and the delivery of challenging projects. We do everything from brochure-ware websites to systems integration work for the NHS, social networking to agile consultancy.
 
