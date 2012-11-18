@@ -285,7 +285,19 @@ Sometimes we've been asked if Open Source software is somehow "less secure" - th
 
 And sometimes we've been told that the organisation simply has a principle of using Commercial Off The Shelf Software ... we can remedy that by recommending any of the excellent commercial Open Source vendors we work with, from Liferay to MySQL and Magnolia CMS.
 
-.. .challenges of agile ...
+In the same way, I've faced challenges with introducing agile methods into traditional public sector organisations.
+
+Typically, these can be expressed as:
+
+ * What am I going to get?
+ * When am I going to get it?
+ * How much is it going to cost?
+
+There are some obvious, quick answers to these questions - the main one being that you're going to get what you ask for, when you ask for it, for an amount equal to the size of the team multiplied by the estimated duration to develop the feature.
+
+That's the quick answer - but these quick answers don't really help anyone who needs to ask the questions.
+
+The best answer by far is a decent conversation, a friendly working relationship and a degree of trust - which is difficult to achieve in an industry that's predicated on not trusting your suppliers, on assuming that they're out to bleed you dry.
 
 
 The future
