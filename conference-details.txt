@@ -1,0 +1,18 @@
+Conference abstract
+------------------- 
+_Public Sector: Open Source_ is a conference for Public Sector executives, IT specialists and decision makers.
+How can open source software help to provide major cost savings and meet demands for new services for citizens?
+
+
+Conference URL
+--------------
+https://osepa.shef.ac.uk/
+
+
+Notes from Saul
+---------------
+I was thinking of some stuff about the way that the OSS community is producing a huge number of new tools for software development and those tools are being used to make the software development process more effective (a virtuous cycle).
+
+So we build on the Stallman era of emacs being OSS start getting CI servers, automated testing tool (ahem!) and even stuff for fast prototyping like Twitter Bootstrap and frameworks like Backbone.js
+
+That was what was in my head, but you should take it anyway that you see fit.
