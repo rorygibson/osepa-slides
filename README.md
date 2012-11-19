@@ -27,8 +27,6 @@ Introduction
 
 Good afternoon.
 
-My name is Rory Gibson. 
-
 I'm a technical architect, a consultant, an Open Source developer, an agile coach, and very occasionally a conference 
 speaker.
 
@@ -161,8 +159,8 @@ releases a new version (or closes a bug in a public tracker), and real users ver
 are free to raise new defects, suggest enhancements - or develop them themselves and release them into the wild for the 
 benefit of all.
 
-[Slide: feedback loop]
-[TODO re-order]
+[Slide: PDCA]
+Basically, it's a cyclical process of feedback and enhancement. 
 Cyclical processes are often said to follow the "PDCA" system, first laid out by W. Edwards Deming.
 
 In essence, you 
@@ -192,6 +190,8 @@ It's no accident that proponents of agile methods are also often proponents of O
 There are several common agile methodologies, including Scrum, DSDM, XP, Kanban and others. 
 In general, they share the common characteristics of being:
 
+[Slide: Characteristics]
+
  * low in ceremony
  * high in reliance on teamwork
  * focussed on delivering value early
@@ -204,7 +204,6 @@ If I can be so bold as to paraphrase the Agile Manifesto - the original written 
 then:
 
 [Slide: Agile Manifesto]
-[TODO transitions?]
 
 We value:
  * Individuals and interactions over processes and tools
@@ -232,7 +231,6 @@ The vast majority of software that supports the agile ecosystem - story tracking
 distributed version control systems - is Open Source. The communities overlap significantly.
 
 [Slide: virtuous circle]
-[TODO bigger]
 
 I believe that this overlap, and the emphasis on feedback, collaboration and iteration, creates a virtuous circle, where the 
 processes in use enhance the tools that are delivered, and the tools are used by the kinds of people that understand the 
@@ -242,9 +240,11 @@ processes.
 Combining Open Source and agile in the public sector
 ----------------------------------------------------
 
-I would guess that most of us here understand the benefits of Open Source to the public sector - in terms of (potentially) 
-lower cost, reduced risk of vendor lock-in, the ability to take advantage of community enhancements and support, and so 
-on.
+I would guess that most of us here understand the benefits of Open Source to the public sector - in terms of rapid delivery, 
+(potentially) lower cost, reduced risk of vendor lock-in, the ability to take advantage of community enhancements and support, 
+and so on.
+
+[Slide: overlapping benefits]
 
 Similarly, the benefits of agile processes 
  * early delivery of value to stakeholders
