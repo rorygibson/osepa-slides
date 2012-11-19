@@ -311,5 +311,5 @@ I believe that the collaborative, transparent nature of agile delivery, combined
 
 By introducing realistic analysis of the benefits and risks of these approaches, we can work to educate the Public Sector that it's possible to have solutions that are cheap to build, cheap to run, and that deliver to the end users on an ongoing basis, without tying ourselves to vendor lifecycles that could limit our flexibility.
 
-In a world of changing regulatory and political landscapes, using Open Source software, delivered in an agile way, will mean we can serve our customers - even if we don't know now, what we'll need later.
+In a world of changing regulations and politics, using Open Source software, delivered in an agile way, will mean we can serve our customers - even if we don't know now, what we'll need later.
 
