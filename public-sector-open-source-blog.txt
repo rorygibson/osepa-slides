@@ -1,0 +1,19 @@
+Public Sector: Open Source
+
+Last week I was fortunate to speak at the Public Sector: Open Source conference, organised by the University of Sheffield.
+This event, sponsored by the <a href="http://osepa.eu/">OSEPA</a> group, which promotes Open Source usage in the European public sector, was well attended both by a variety of speakers and a range of interested attendees.
+
+I was more than happy to be the second speaker on stage, following on from Tariq Rashid of the Cabinet Office IT Reform Group.
+Tariq's presentation, which outlined the current state of UK public government IT spending and the plans to make the processes leaner, was extremely interesting - all the more so since it outlined a number of the same themes in my own presentation.
+
+The presentation I gave, entitled "Intersection: Combining Open Source and agile delivery" is based on one simple principle; that while Open Source is beginning to be more widely used in the public sector, and agile delivery techniques are gaining traction, there's a lot to be gained by combining the two and delivering low cost, flexible IT solutions in an iterative way.
+
+Overall, my impression of the conference was of a feeling that we're "almost there" with the usage of Open Source in the public sector; the benefits are understood, if not not always by the top level decision makers. 
+
+The big areas that need to be fixed (and this is not only my viewpoint, but that of the Cabinet Office Reform Group) are procurement and delivery, and the difficult relationships between departments and suppliers. 
+
+If we want to reduce costs and produce solutions that really deliver to our end customers, Government need to find ways of working with lean, focussed suppliers - and they need to create relationships that are based on mutual trust, not contracts designed to apportion blame in the case of inevitable failure.
+
+There are real opportunities for SMEs, especially those with experience in the agile and Open Source arenas, to make in-roads in the next few years - working closely with their customers, in a way that's designed to produce quality software, not hostile customer relationships.
+
+My presentation notes and slides can be found on <a href="http://github.com/rorygibson/osepa-slides">my account at GitHub</a> - it seemed to make sense to release the slides for an Open Source presentation as Open Source themselves.
