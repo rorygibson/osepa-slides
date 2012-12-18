@@ -3,8 +3,6 @@ Intersection: Combining Open Source and agile delivery
 
 _Slides for my presentation at the Public Sector Open Source Conference, November 21st, Sheffield Uni_
 
-Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license.
-
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_GB"><img alt="Creative Commons Licence" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/80x15.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Intersection: Combining Open Source and agile delivery</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Rory Gibson</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_GB">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="http://github.com/rorygibson/osepa-slides" rel="dct:source">http://github.com/rorygibson/osepa-slides</a>.
 
 Contents
